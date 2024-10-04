@@ -16,7 +16,7 @@ This project implements a satellite collision avoidance system, focusing on mode
 ## Prerequisites
 - MATLAB R2023a or later.
 - MATLAB Aerospace Toolbox for propagating orbits from TLE.
-- (Optional) Simulink for advanced modeling.
+
 
 ### **Step 2: System Architecture**
 
@@ -32,7 +32,7 @@ This project implements a satellite collision avoidance system, focusing on mode
 
 ---
 ### **Step 3: MATLAB Code for Collision Detection and Avoidance**
-code is given in the scripts file
+code is given in the scripts folder
  main.m
  propagateOrbit.m
  checkCollision.m
